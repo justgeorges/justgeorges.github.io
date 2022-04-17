@@ -4,8 +4,6 @@ name: about
 link: /about/
 ---
 
-Introduction
-
 Welcome!  My name is George, and this is my ‘home’ online.  I’ve always struggled to feel at home, no matter where I am. So, I decided to build myself a space where I say I belong!  
 
 While this website is essentially a blog, I intend it to grow into a hub for everything that I’ve wanted to show the world.  I have so many…things (vague, I know) that I want to share, so this is my attempt to say “hey, this is me!” to anyone that’s willing to listen.  
