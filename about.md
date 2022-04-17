@@ -1,7 +1,7 @@
 ---
 layout: default
 name: about
-permalink: /about/
+link: /about/
 ---
 
 Introduction
