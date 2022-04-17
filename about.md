@@ -1,3 +1,8 @@
+---
+layout: default
+name: about
+---
+
 Introduction
 
 Welcome!  My name is George, and this is my ‘home’ online.  I’ve always struggled to feel at home, no matter where I am. So, I decided to build myself a space where I say I belong!  
