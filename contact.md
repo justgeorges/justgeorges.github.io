@@ -12,3 +12,4 @@ link: /contact/
     </li>
         Github: <a href="https://github.com/justgeorges">justgeorges</a>
     <li>
+</ul>
