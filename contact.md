@@ -10,6 +10,7 @@ link: /contact/
     <li>
         Twitter: <a href="https://twitter.com/just__georges">@just__georges</a>
     </li>
-        Github: <a href="https://github.com/justgeorges">justgeorges</a>
     <li>
+        Github: <a href="https://github.com/justgeorges">justgeorges</a>
+    </li>
 </ul>
