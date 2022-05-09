@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"main.scss",
+		"vendor/bundle/ruby/2.7.0/gems/no-style-please-0.1.0/_sass/no-style-please.scss"
+	],
+	"sourcesContent": [
+		"@import \"no-style-please\";",
+		"body {\n  color: black;\n  background-color: white;\n  font-family: monospace;\n  font-size: 1.3rem;\n  line-height: 1.3rem;\n}\n\n.wrapper {\n  width: fit-content;\n  max-width: 640px;\n  margin: 4rem auto;\n  padding: 0 1rem;\n}\n\nh1 { line-height: 2rem; }\n\nhr {\n  text-align: center;\n  border: 0;\n\n  &:before { content: '/////' }\n  &:after { content: attr(data-content) '/////' }\n}\n\ntable, th, td {\n  border: thin solid black;\n  border-collapse: collapse;\n}"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,IAAI,AAAC,CACH,KAAK,CAAE,KAAK,CACZ,gBAAgB,CAAE,KAAK,CACvB,WAAW,CAAE,SAAS,CACtB,SAAS,CAAE,MAAM,CACjB,WAAW,CAAE,MAAM,CACpB,AAED,AAAA,QAAQ,AAAC,CACP,KAAK,CAAE,WAAW,CAClB,SAAS,CAAE,KAAK,CAChB,MAAM,CAAE,SAAS,CACjB,OAAO,CAAE,MAAM,CAChB,AAED,AAAA,EAAE,AAAC,CAAE,WAAW,CAAE,IAAI,CAAI,AAE1B,AAAA,EAAE,AAAC,CACD,UAAU,CAAE,MAAM,CAClB,MAAM,CAAE,CAAC,CAIV,AAND,AAIE,EAJA,CAIE,MAAM,AAAC,CAAE,OAAO,CAAE,OAAQ,CAAE,AAJhC,AAKE,EALA,CAKE,KAAK,AAAC,CAAE,OAAO,CAAE,kBAAkB,CAAC,OAAO,CAAG,AAGlD,AAAA,KAAK,CAAE,EAAE,CAAE,EAAE,AAAC,CACZ,MAAM,CAAE,gBAAgB,CACxB,eAAe,CAAE,QAAQ,CAC1B"
+}
