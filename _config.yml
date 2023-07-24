@@ -1,6 +1,6 @@
 title: just george's space # name of the site
 author: George Arbanas # name of the site's author
-email: bakagaijin@thickly.aleeas.com # email of the site's author
+email: george@justgeorges.space # email of the site's author
 url: https://justgeorges.space #root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: welcome home.
@@ -12,7 +12,7 @@ favicon: "Space.svg"  # name+extension of favicon (which must be put on the root
 
 theme: no-style-please
 
-theme_config: 
+theme_config:
   appearence: "auto" # "light" "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
@@ -21,6 +21,6 @@ theme_config:
 sass:
   style: :compressed
 
-  plugins: 
+  plugins:
     - jekyll-feed
     - jekyll-seo-tag
