@@ -37,6 +37,11 @@ footer {
   font-size: large;
 }
 
+#profile {
+  width: 50%;
+  height: 50%;
+}
+
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
